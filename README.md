@@ -1,6 +1,6 @@
 # Cansa-Vision
 
-Neste projeto, utiliza-se **Azure Computer Vision** + **VertexAI (gcloud)** para automatizar o processo de preenchimento de planilhas de cartões-ponto (final do texto) de todos os tipos, trabalho de escritório árduo e repetitivo.
+Neste projeto, utiliza-se o **Azure Computer Vision** + **VertexAI (gcloud)** para automatizar o processo de preenchimento de planilhas de cartões-ponto (final do texto) de todos os tipos, trabalho de escritório árduo e repetitivo.
 
 ## **Inicialização**
 Para as classes Python, é necessário um ambiente _myenv_ com os requisitos instaláveis. 
